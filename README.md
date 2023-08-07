@@ -43,7 +43,7 @@ Contributions are welcome! If you find any issues or have ideas for improvements
 
 Credits
 
-Quest For Glory was developed by Nikola Knezevic (KnezNik).
+Quest For Glory was developed by Nikola Knezevic (NikKnez).
 
 
 ---
