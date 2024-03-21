@@ -20,8 +20,8 @@ Getting Started
 
 To run the game locally, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/your-username/quest-for-glory.git`
-2. Navigate to the project directory: `cd quest-for-glory`
+1. Clone the repository: `[git clone https://github.com/your-username/quest-for-glory.git](https://github.com/NikKnez/QuestForGlory.git)`
+2. Navigate to the project directory: `cd QuestForGlory`
 3. Compile and run the game: `javac Quest_For_Glory.java && java Quest_For_Glory`
 
 
